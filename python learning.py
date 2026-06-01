@@ -1,0 +1,9 @@
+name="Gautam"
+age=21
+salary=20000
+is_employed=True
+city="Pune"
+print(name)
+print(age)
+print(salary)
+print(is_employed)
