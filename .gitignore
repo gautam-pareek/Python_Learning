@@ -1,0 +1,13 @@
+Obsidian/
+*.exe
+*.dll
+*.pak
+*.dat
+*.bin
+*.asar
+*.node
+*.html
+*.com
+*.txt
+*.json
+*.icd
